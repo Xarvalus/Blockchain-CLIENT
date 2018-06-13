@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AboutPage /> renders correctly 1`] = `
+<Container
+  tag="div"
+>
+  <H1__H1>
+    Readme
+  </H1__H1>
+  <p>
+    ...
+  </p>
+</Container>
+`;

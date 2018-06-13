@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> renders correctly 1`] = `
+<Container
+  tag="div"
+>
+  <H1__H1>
+    <FormattedMessage
+      defaultMessage="Blockchain Client"
+      id="app.containers.HomePage.header"
+      values={Object {}}
+    />
+  </H1__H1>
+</Container>
+`;
